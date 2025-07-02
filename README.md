@@ -25,10 +25,6 @@
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 ---
-## Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinmohammadkhani&hide=contribs,prs)
----
-
 ## Get in Touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseinmohammadkhani8302@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hosseintbo)
 
